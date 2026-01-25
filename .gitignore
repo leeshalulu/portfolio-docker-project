@@ -1,0 +1,62 @@
+# Docker
+.env
+docker-compose.override.yml
+**/.dockerignore
+**/.env
+**/.env.local
+**/.env.development.local
+**/.env.test.local
+**/.env.production.local
+
+# Docker volumes
+mysql-data/
+**/mysql-data/
+*.sql
+*.tar.gz
+backups/
+
+# Logs
+logs/
+*.log
+**/logs/
+**/*.log
+nginx/logs/
+php/logs/
+mysql/logs/
+
+# Runtime data
+tmp/
+**/tmp/
+
+# Backup files
+*.backup
+*.bak
+.env.backup.*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sensitive data
+secrets/
+credentials/
+*.pem
+*.key
+
+# Application specific
+**/node_modules/
+**/vendor/
+composer.lock
+package-lock.json
+yarn.lock
+
+# Temporary Docker files
+**/Dockerfile.*
+**/compose*.yml
