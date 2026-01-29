@@ -25,3 +25,24 @@ nano .env
 # Start the application
 docker-compose up -d --build
 
+📋 Table of Contents
+
+    Project Overview
+
+    What I Built
+
+    Technologies Used
+
+    Step-by-Step Implementation
+
+    How to Run This Project
+
+    Project Structure
+
+    Features Implemented
+
+    Challenges Faced
+
+    What I Learned
+
+    Future Improvements
