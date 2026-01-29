@@ -23,8 +23,9 @@
 
     Future Improvements
 
-    Project Overview
+    
 
+    Project Overview
 I built a complete Docker-based portfolio website that runs on Amazon Linux 2023. This project shows my ability to deploy a full-stack web application using Docker containers. The website displays my portfolio, has a contact form, and shows system information.
 
 What I Built
