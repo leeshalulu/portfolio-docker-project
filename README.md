@@ -118,6 +118,7 @@ I pushed my project to GitHub to share it
 **If you want to run this project yourself:**
 **Clone the repository**
 git clone https://github.com/myusername/portfolio-docker-project.git
+
 cd portfolio-docker-project 
  
 **Copy environment file**
