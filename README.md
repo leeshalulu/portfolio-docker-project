@@ -42,7 +42,7 @@ I built a complete Docker-based portfolio website that runs on Amazon Linux 2023
 
 **All these services run in separate Docker containers that work together.**
 
-## Technologies Used
+## Technologies Used##
 
     1.Docker - To containerize the application
 
