@@ -42,11 +42,11 @@ I built a complete Docker-based portfolio website that runs on Amazon Linux 2023
 
 **All these services run in separate Docker containers that work together.**
 
-## Technologies Used##
+## Technologies Used
 
-    1.Docker - To containerize the application
+   1.Docker - To containerize the application
 
-    2. Docker Compose - To manage multiple containers
+   2. Docker Compose - To manage multiple containers
 
    3. Amazon Linux 2023 - As the server operating system
 
@@ -118,7 +118,7 @@ I pushed my project to GitHub to share it
 **If you want to run this project yourself:**
 **Clone the repository**
 git clone https://github.com/myusername/portfolio-docker-project.git
- cd portfolio-docker-project 
+cd portfolio-docker-project 
  
 **Copy environment file**
  cp .env.example .env
